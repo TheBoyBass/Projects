@@ -1,2 +1,2 @@
 # Projects
-Projects ive done on my coding Journey
+Projects I've done on my coding Journey
